@@ -30,3 +30,4 @@
 _start:
 1:  wfe
     b       1b
+//test
